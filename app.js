@@ -6,6 +6,7 @@ var Underline = document.getElementById("U");
 
 
 function myFunction() {
+ 
     document.getElementById("text").style.fontFamily = "Italic";
   }
 
